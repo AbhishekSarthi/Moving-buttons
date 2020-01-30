@@ -1,0 +1,30 @@
+body{
+	max-height: 600px;
+}
+
+.Buttons{
+	width: 15%;
+	position: absolute;
+	transition: 0.4s ease all;
+	left: 40%;
+	top: 50px;
+	text-align: center;
+	padding: 15px;
+	color: white;
+	
+}
+.Button-one{
+	background-color: #2879bf;
+	
+
+}
+
+.Button-two{
+	background-color: #6ac22b;
+	
+
+}
+
+.Button-three{
+	background-color: #c96f00;
+}	
